@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+
+.pix-wide {
+    width: 60%;
+    height: 60%;
+    align-content: center;
+    margin: auto;
+}
